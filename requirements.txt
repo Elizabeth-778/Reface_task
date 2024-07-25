@@ -1,7 +1,6 @@
 gradio
 moviepy
-riffusion
-accelerate>=0.16.0
+accelerate==0.32.1
 argh
 dacite
 demucs
@@ -16,7 +15,7 @@ pysoundfile
 scipy
 soundfile
 sox
-torch
+torch==1.13.1
 torchaudio
 torchvision
-transformers==4.40.0
+transformers==4.41.2
