@@ -1,0 +1,3 @@
+[submodule "riffusion-hobby"]
+	path = riffusion-hobby
+	url = https://github.com/riffusion/riffusion-hobby.git
